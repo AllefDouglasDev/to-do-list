@@ -1,0 +1,25 @@
+<menu xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto"
+    xmlns:tools="http://schemas.android.com/tools"
+    tools:context="com.example.allef.tad.MainActivity">
+
+    <item
+        android:id="@+id/action_settings"
+        android:orderInCategory="100"
+        android:title="@string/action_send_email"
+        app:showAsAction="ifRoom"
+        android:icon="@drawable/ic_share"/>
+    <item
+        android:id="@+id/action_filter"
+        android:orderInCategory="100"
+        android:title="@string/action_filter"
+        app:showAsAction="ifRoom"
+        android:icon="@drawable/ic_filter"/>
+    <item
+        android:id="@+id/change_day"
+        android:orderInCategory="100"
+        android:title="Alterar Dia"
+        app:showAsAction="ifRoom"
+        android:icon="@drawable/ic_change_day"/>
+
+</menu>

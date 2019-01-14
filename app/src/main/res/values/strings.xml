@@ -1,0 +1,12 @@
+<resources>
+    <string name="app_name">Minhas Tarefas</string>
+    <string name="action_send_email">Enviar por e-mail</string>
+    <string name="action_create_task">Criar tarefa</string>
+    <string name="action_update_task">Alterar tarefa</string>
+    <string name="action_delete">Deletar</string>
+    <string name="action_filter">Filtro</string>
+    <string name="action_confirm">Confirmar</string>
+    <string name="dialog_delete">Deseja deletar essa tarefa?</string>
+    <string name="dialog_positive">Sim</string>
+    <string name="dialog_negative">Não</string>
+</resources>
